@@ -44,6 +44,5 @@ To run these notebooks locally:
     ```
 
 ## 📫 Contact
-* **Your Name**
 * [krishi-thiruppathi](https://www.linkedin.com/in/krishi-thiruppathi-725364232/)
 * [krishithiruppathi@gmail.com](mailto:krishithiruppathi@gmail.com)
